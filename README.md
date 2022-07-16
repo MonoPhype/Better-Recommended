@@ -13,5 +13,5 @@ Not every line in the file has to be a url.
 
 Open the HTML files after running scrape.py  
   
-Tor browser must be closed, before running the script.  
+Tor browser must be closed before running the script.  
 If a problem occurs, quit Tor with the system monitor.
