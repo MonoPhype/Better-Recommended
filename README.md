@@ -2,7 +2,7 @@
              
 ## How to use  
 
-Line 7 in scrape.py change tor_cmd to your Tor path(Tor itself, not the browser) probably at ...tor-browser_en-US/Browser/TorBrowser/Tor/tor  
+At line 7 in scrape.py change tor_cmd to your Tor path(Tor itself, not the browser) probably at ...tor-browser_en-US/Browser/TorBrowser/Tor/tor  
   
 Then you can input Youtube/Twitch/Bitchute channel urls into the channel_input file on different lines.  
 
