@@ -1,6 +1,6 @@
 <p align="center"><img alt="Video Preview" src="./showcase.gif" width="640" height="360"/></p>
              
-## How to use:  
+## How to use  
 
 Line 6 in scrape.py change tor_cmd to your Tor path(Tor itself, not the browser) probably at ...tor-browser_en-US/Browser/TorBrowser/Tor/tor  
   
