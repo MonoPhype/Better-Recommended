@@ -11,4 +11,4 @@ It also doesn't matter if there is text before the "youtube.com"/"twitch.tv"/"bi
 E.g. "https://www.twitch.tv/loltyler1/videos?filter=archives&sort=timeLOL" would be the same as "twitch.tv/loltyler".  
 Not every line in the file has to be a url.  
 
-Then after running scrape.py, open the html files.
+After running scrape.py, open the html files.
