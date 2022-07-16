@@ -11,5 +11,7 @@ It also doesn't matter if there's text before the domain or after the channel na
 E.g. "https://www.twitch.tv/loltyler1/videos?filter=archives&sort=timeLOL" would be the same as "twitch.tv/loltyler1".  
 Not every line in the file has to be a url.  
 
-After running scrape.py open the HTML pages.
-If opened, the Tor browser has to be closed before running the script. If a problem occurs, just quit Tor with the system monitor.
+After running scrape.py open the HTML pages.  
+  
+If opened, the Tor browser has to be closed before running the script.  
+If a problem occurs, just quit Tor with the system monitor.
